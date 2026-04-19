@@ -44,3 +44,6 @@ Open `import.html` directly in a browser. No build tools, bundlers, or package m
 - CSS uses custom properties (`--bg`, `--accent`, etc.) for theming; dark space theme throughout
 - Animations are CSS-only (keyframes for twinkling stars, meteors, card transitions)
 - No framework — vanilla JS with direct DOM manipulation
+
+
+xxxx
